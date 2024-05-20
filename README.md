@@ -1,4 +1,7 @@
 ### 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+NAME  : DHANA LAKSHMI A
+
+REG NO: 212223040033 
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
